@@ -6,25 +6,25 @@ Freemium Resources
 
     Netlify - https://netlify.com
 
-    Vercel (Zeit) - https://vercel.com - Deploying Front & Backend apps at free of cost
+    Vercel (Zeit) - https://vercel.com - Deploying Front & Backend apps free
 
-    Firebase - https://firebase.com - Deploying Front & Backend apps at free of cost
+    Firebase - https://firebase.com - Deploying Front & Backend apps free
 
     Surge - https://surge.sh
 
     Render - https://render.com
 
-    Hostman - https://hostman.com - free for frontend always, pay only for backend apps. (free credits will also there for you)
+    Hostman - https://hostman.com - free for frontend always, pay only for backend apps. (free credits also available)
 
-    Glitch - https://glitch.com - Deploying Front & Backend apps at free of cost
+    Glitch - https://glitch.com - Deploying Front & Backend apps free
 
-    Fly - https://fly.io - Deploying Front & Backend apps at free of cost
+    Fly - https://fly.io - Deploying Front & Backend apps free
 
     Fleek - https://fleek.co
 
     Begin - https://begin.com
 
-    Stormkit - https://stormkit.io - Deploying Front & Backend apps at free of cost
+    Stormkit - https://stormkit.io - Deploying Front & Backend apps free
 
     Deta - https://deta.sh - Deploying Node.js and Python apps and APIs. They support most web frameworks like Express, Koa, Flask, and FastAPI. They also provide a very fast and powerful NoSQL database for free. (updated)
 
@@ -44,7 +44,7 @@ Freemium Resources
 
 Thank you!
 
-    We can use github pages, gitlab, bitbucket to deploy static web pages!
+   You can also use github pages, gitlab, bitbucket to deploy static web pages!
 
 Premium providers
 
